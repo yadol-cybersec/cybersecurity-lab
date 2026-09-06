@@ -127,3 +127,21 @@ Below is a live ICMP packet captured in Wireshark on Kali Linux demonstrating ho
 - **Layer 2 (Data Link):** Ethernet II header containing source and destination MAC addresses.
 - **Layer 3 (Network):** IPv4 header containing local IP (`10.0.2.15`) and target IP (`8.8.8.8`).
 - **Data Payload:** ICMP Echo (ping) message.
+
+# NAT Security Concepts
+
+## 1. Cisco NAT Address Mapping
+| Term | Context | Function |
+| :--- | :--- | :--- |
+| **Inside Local** | Internal Network | Private IP assigned to internal host |
+| **Inside Global** | Public Internet | Public IP representing internal host to outside world |
+| **Outside Local** | Internal Network | Target destination address as seen locally |
+| **Outside Global** | Public Internet | Public IP assigned to external target server |
+
+## 2. Hardware Mechanics (Layer 2 vs Layer 1)
+- **Layer 2 (Switching):** Uses Destination MAC addresses and CAM tables for frame forwarding.
+- **Layer 1 (Hubs):** Legacy devices that broadcast frames to all ports, creating single collision domains.
+
+## 3. Communication Models
+- **Broadcast:** 1-to-All delivery. Used in ARP and DHCP.
+- **Multicast:** 1-to-Group delivery. Used in specialized media streaming and routing updates.
