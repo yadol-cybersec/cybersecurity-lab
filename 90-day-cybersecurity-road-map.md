@@ -50,3 +50,34 @@ The exercise: open Chrome dev tools (F12), Network tab, reload a news site. Watc
 Finding domains like PubMatic and Index Exchange running background cookie syncs on a simple news page made it obvious how heavily monitored everyday web traffic is.
 
 85 days left. The gap between "I use the internet" and "I understand the internet" is getting smaller.
+
+
+# Day 6: IP Geolocation, Public vs. Private IPs & NAT
+
+Day 6 of 90 with @MyFirstHack. I just looked up my own IP address to see what every website already knows about me.
+
+It told a stranger I'm in Addis Ababa. It named my ISP. It pinned me to coordinates I could paste into Google Maps.
+
+I didn't share any of that. I just opened a browser.
+
+Realizing that a standard HTTP connection instantly hands over geographic location data without a single popup or permission prompt completely changes how you view a normal website visit.
+
+Today's lesson: every device on the internet has a public IP address — and that address leaks your rough location, your ISP, and what kind of connection you're on, instantly, to every website you visit. No clicks. No permissions. Just the act of connecting. I also broke down the difference between private local addresses and public ones, how NAT shares a single public IP across a whole home network, and why the transition from IPv4 to IPv6 solves address exhaustion.
+
+84 days left. I'm starting to see the internet the way defenders see it.
+
+# Day 7: One Week Review & Reflection
+
+Day 7 of 90 with @MyFirstHack. One week in.
+
+I've been reflecting on the week I just had. Three things stand out:
+
+Realizing how many third-party ad trackers and script endpoints fire silently in the background of every single news page completely changed my view of web browsing. It's wild to see how much telemetry is exchanged before you even start reading an article.
+
+Mapping out the IP address lifecycle showed me just how exposed standard network connections are, leaking rough geographic locations and ISP details instantly. Moving from a passive user to understanding public versus private IPs makes infrastructure visibility feel much more real.
+
+Breaking down DNS vulnerabilities like hijacking, tunneling, and cache poisoning exposed how much the internet relies on trusting underlying translation systems. Recognizing that attackers target the foundational routing of names rather than just brute-forcing encryption makes system defense look completely different.
+
+83 days left. I'll post another reflection at Day 30.
+
+
