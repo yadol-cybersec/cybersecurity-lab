@@ -93,3 +93,17 @@ Today's lesson: complexity rules are security theatre. Length beats complexity. 
 
 82 days left. The machines were easier. The humans start now.
 
+
+# Day 9: Phishing Vectors & Human Defenses
+
+Day 9 of 90 with @MyFirstHack. Today was phishing — the attack involved in roughly 70-90% of successful cyberattacks on earth.
+
+
+Seeing how subtly malicious domains can mimic legitimate services by swapping out standard characters completely changes how much you can trust a URL at a glance.
+
+Today's lesson: phishing defense isn't about being smart enough to spot a fake. AI makes modern phishing too good for that. It's about five structural habits that bypass the trap entirely — hover before clicking, never authenticate from an email link, 2FA on everything, treat urgency as a red flag, verify through a second channel.
+
+You don't have to out-think attackers. You just have to not click.
+
+81 days left.
+
