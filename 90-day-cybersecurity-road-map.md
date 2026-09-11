@@ -21,3 +21,18 @@ The thing that reframed it for me: your email isn't just an account. It's the ma
 Portfolio piece number one. 87 days to go.
 
 #myfirsthack
+
+
+# Day 4: Network Triage & Endpoint Baseline
+
+Day 4 of 90 with @MyFirstHack. I just watched my own laptop have a conversation with 3 servers around the world that I never knowingly started.
+
+Today's lesson: most people use computers like magic boxes. Cybersecurity people treat them as systems they can reason about.
+
+The exercise: open Activity Monitor (or Task Manager on Windows). Look at the 200+ processes running right now. Pick 3 you don't recognize and Google them.
+
+Most surprising thing I found: A background connection to a DigitalOcean cloud server while no third-party apps were actively being used.
+
+86 days left. The gap between "I use a computer" and "I understand a computer" is getting smaller.
+
+#myfirsthack
