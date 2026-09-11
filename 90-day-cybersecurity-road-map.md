@@ -81,3 +81,15 @@ Breaking down DNS vulnerabilities like hijacking, tunneling, and cache poisoning
 83 days left. I'll post another reflection at Day 30.
 
 
+# Day 8: Password Security & Human Vectors
+
+Day 8 of 90 with @MyFirstHack. Week 2 begins — and it starts with passwords.
+
+I just ran the built-in security check on my browser's saved passwords. 3 of them were flagged as compromised. I'd never looked at that list before today.
+
+I used to think that throwing in numbers, uppercase letters, and random symbols made a short password genuinely secure, but length matters infinitely more than punctuation marks.
+
+Today's lesson: complexity rules are security theatre. Length beats complexity. A different password for every site beats both. And two-factor authentication beats everything — because the strongest password in the world dies the moment you type it into the wrong login page.
+
+82 days left. The machines were easier. The humans start now.
+
