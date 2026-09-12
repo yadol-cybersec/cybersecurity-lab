@@ -107,3 +107,19 @@ You don't have to out-think attackers. You just have to not click.
 
 81 days left.
 
+# Day 10: Data Mapping & Privacy Rights
+
+Day 10 of 90 with @MyFirstHack. Today was about data — the thing every breach is actually about, underneath all the technical detail.
+
+I mapped where my personal data lives across three categories: PII, credentials, and proprietary. I found an old gaming forum account still holding my information, which I hadn't thought about in years.
+
+I also requested a Google data export — a right I've had under GDPR for years and never used. Ten days into this course and I've already exercised a legal right most people don't know they have.
+
+Realizing how precisely location logs stitch together daily routines through my Google Maps history made background telemetry feel a lot more tangible than abstract database records.
+
+Ten days in. The lens is starting to feel like a habit.
+
+80 days left.
+
+
+
