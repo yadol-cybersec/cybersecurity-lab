@@ -45,11 +45,7 @@ To ensure lab safety, Metasploitable 2 is isolated from the physical home networ
 
 ## 4. IPv6 Key Features
 
-* **128-Bit Address:** Solves the IPv4 address shortage using hexadecimal format.
-* **Faster Routing:** Simplified, fixed-size headers allow routers to forward traffic faster.
-* **Built-in Security:** Includes integrated IPSec by default.
-* **Flexible Setup:** Supports both Stateful (DHCPv6) and Stateless (SLAAC) autoconfiguration.
-
+* **128-Bit Address:** Solves the IPv4 address shortage using hexadecimal format
 
 # OSI Model & Networking Fundamentals
 
