@@ -125,4 +125,17 @@ The web is way bigger than what you see.
 
 79 days left.
 
+# Day 12 of 90 .
+
+I've looked at a padlock in my browser thousands of times. Today was the first time I actually opened one up.
+
+What surprised me most was learning that a valid certificate can prove you're connected securely, but it doesn't automatically mean the website itself is trustworthy.
+
+The padlock proves the connection is encrypted. It does not prove the site is who you think it is, and it does not prove the site is safe.The icon attackers fear most is the same icon they hide behind.
+
+Two weeks in. Starting to see how the layers of the web actually fit together.
+
+78 days left.
+
+
 
