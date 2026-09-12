@@ -25,7 +25,8 @@ Active network connection audit performed to map local outbound traffic to infra
 ### 3. DigitalOcean IP (`137.184.135.31`)
 * **Owner:** DigitalOcean, LLC (Cloud Hosting Provider)
 * **Status / Observation:** Active connection to an external cloud VPS provider.
-* **Analysis:** Initially unrecognized. DigitalOcean is a cloud infrastructure provider frequently used for hosting third-party apps, personal development projects, or VPN endpoints. Investigation confirms it is tied to an active auxiliary service.
+* **Analysis:** Initially unrecognized. DigitalOcean is a cloud infrastructure provider frequently used for hosting third-party apps, personal development projects, or VPN endpoints.I checked the associated process and confirmed that the connection was
+related to a legitimate application/service running on the system.
 
 ## Triage Conclusion
 The network baseline is consistent with standard application behavior. The presence of DigitalOcean highlights the importance of mapping obscure IP addresses to cloud hosting providers rather than assuming malicious intent immediately.
