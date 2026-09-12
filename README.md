@@ -1,4 +1,4 @@
-# Introduction to the Computer Networking
+#  Cybersecurity Home Lab
 
 Welcome to my cybersecurity documentation repository. This repository logs my hands-on experience, lab architectures, network fundamentals, and offensive security exercises.
 
@@ -21,23 +21,6 @@ To ensure lab safety, Metasploitable 2 is isolated from the physical home networ
 - **Full-Duplex vs. Half-Duplex:** Bidirectional data flow vs. single-direction collision domain limitations.
 - **CSMA/CD:** Carrier Sense Multiple Access with Collision Detection handling media contention.
 - **Network Isolation:** Isolating vulnerable targets on dedicated virtual interfaces to prevent external exposure. 
-
-
-# Network Fundamentals: Core IP Concepts
-
-A quick summary of IP addressing, subnet concepts, and IPv6 features.
-
----
-
-## 1. IPv4 Structure & Classes
-
-IPv4 uses 32-bit addresses split into 4 octets (e.g., `192.168.1.1`).
-
-* **Class A (`1–126`):** Very large networks.
-* **Class B (`128–191`):** Medium-sized networks.
-* **Class C (`192–223`):** Small local networks.
-* **Class D (`224–239`):** Reserved for Multicast.
-* **Class E (`240–255`):** Reserved for Research.
 
 ---
 
@@ -71,7 +54,7 @@ IPv4 uses 32-bit addresses split into 4 octets (e.g., `192.168.1.1`).
 # OSI Model & Networking Fundamentals
 
 ## Overview
-This repository documents my conceptual and practical understanding of the **OSI (Open Systems Interconnection) 7-Layer Model**, protocols, port numbers, and network devices as part of my Cybersecurity study path.
+This r documents my conceptual and practical understanding of the **OSI (Open Systems Interconnection) 7-Layer Model**, protocols, port numbers, and network devices as part of my Cybersecurity study path.
 
 ---
 
@@ -123,7 +106,6 @@ Below is a live ICMP packet captured in Wireshark on Kali Linux demonstrating ho
 
 <img width="982" height="391" alt="image" src="https://github.com/user-attachments/assets/fcaaeca1-6a4e-4d11-ad17-91f4129a6d43" />
 
-- **Layer 1 (Physical):** Frame length & bit stream (98 bytes / 784 bits).
 - **Layer 2 (Data Link):** Ethernet II header containing source and destination MAC addresses.
 - **Layer 3 (Network):** IPv4 header containing local IP (`10.0.2.15`) and target IP (`8.8.8.8`).
 - **Data Payload:** ICMP Echo (ping) message.
