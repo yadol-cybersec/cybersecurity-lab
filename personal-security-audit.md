@@ -10,9 +10,9 @@
 ## 1. Scope
 
 **Systems and accounts assessed:**
-* **Primary Email:** yadol776@gmail.com
-* **Key Accounts:** Google, Apple ID, Instagram, Snapchat
-* **Primary Device:** Windows PC, iPhone X
+* **Primary Email:** Primary Email
+* **Key Accounts:** Google, Apple ID, Instagram, Snap chat
+* **Primary Device:** Windows PC, iPhone 
 * **Network:** Local Network
 
 ---
