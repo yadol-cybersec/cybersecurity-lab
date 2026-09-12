@@ -11,8 +11,8 @@
 
 **Systems and accounts assessed:**
 * **Primary Email:** Primary Email
-* **Key Accounts:** Google, Apple ID, Instagram, Snap chat
-* **Primary Device:** Windows PC, iPhone 
+* **Key Accounts:** Google, Apple ID, selected social media accounts
+* **Primary Device:** Windows PC, mobile device 
 * **Network:** Local Network
 
 ---
