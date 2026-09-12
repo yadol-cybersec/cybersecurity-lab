@@ -10,7 +10,7 @@
 ## 1. Scope
 
 **Systems and accounts assessed:**
-* **Primary Email:** Primary Email
+* **Primary Email:** [REDACTED]
 * **Key Accounts:** Google, Apple ID, selected social media accounts
 * **Primary Device:** Windows PC, mobile device 
 * **Network:** Local Network
