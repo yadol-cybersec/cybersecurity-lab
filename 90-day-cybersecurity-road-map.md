@@ -122,4 +122,18 @@ Ten days in. The lens is starting to feel like a habit.
 80 days left.
 
 
+# Day 11: Developer Tools & Network Request Inspection
+
+Day 11 of 90 with @MyFirstHack.
+
+I just opened the developer tools on a website I use every single day, and watched it make over 75 separate network requests in the time it took to load.
+
+Seeing tracking and analytics scripts fire off requests to third-party domains milliseconds before the actual user interface even finished rendering completely changed my perspective on how much telemetry is constantly exchanged behind the scenes.
+
+A week ago I would have called that page "loaded." Today I can see it's still talking to a dozen different servers, running scripts from companies I never heard of, and that every one of those connections is a place security has to hold up.
+
+The web is way bigger than what you see.
+
+79 days left.
+
 
