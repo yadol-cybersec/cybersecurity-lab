@@ -23,8 +23,9 @@ Before capturing traffic, Wireshark must be configured to listen on the correct 
 
 To analyze network behavior, a simple client-to-server interaction must take place over standard, unencrypted HTTP rather than HTTPS.
 
-* **Action:** Initiate a web request or launch a local HTTP server (`python3 -m http.server`) and browse to it from your test client.
+<img width="921" height="203" alt="Screenshot 2026-09-12 205255" src="https://github.com/user-attachments/assets/6b1b8244-15fa-454c-acd4-66a8db2bd71f" />
 
+  
 <img width="1350" height="673" alt="image" src="https://github.com/user-attachments/assets/ea3c0deb-a708-4a47-a7c5-6b0374889725" />
 
 
