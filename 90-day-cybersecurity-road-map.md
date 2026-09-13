@@ -138,4 +138,15 @@ Two weeks in. Starting to see how the layers of the web actually fit together.
 78 days left.
 
 
+# **Day 13 of 90 with @MyFirstHack.**
+>
+ Today I opened the cookie jar of a site I use every day. I'd clicked through a thousand cookie banners without ever looking at what was on the other side.
+
+What surprised me most was that cookies aren't just about remembering preferences — some can actually keep you logged in by identifying your session.
+
+ Cookies are not the dystopian thing the press makes them out to be. They're small pieces of data that let websites remember things about you between page loads. They're also one of the most valuable things for attackers to steal, because if an attacker gets your session cookie, the website may treat them as you — even if you have multi-factor authentication switched on.
+
+ Two weeks in. The web is starting to feel less like magic and more like machinery.
+
+ **77 days left.**
 
