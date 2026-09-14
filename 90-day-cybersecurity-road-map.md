@@ -152,7 +152,7 @@ What surprised me most was that cookies aren't just about remembering preference
 
 
 
-# **Day 14 of 90 with @MyFirstHack.**
+# **Day 14 of 90 
 
  I've had a Wi-Fi router for over a decade. Today was the first time I logged into the admin panel and audited it the way a security analyst would.
 
@@ -162,3 +162,17 @@ A home Wi-Fi router is one device doing about five different security-relevant j
  Two weeks done. Tomorrow's the first real project — analysing an actual phishing email start to finish. Everything from this week converges.
 
  **76 days left.**
+
+ # Day 15 of 90 
+
+Today I analysed a real phishing email start to finish — the way a SOC analyst would on the job.
+
+URL submission to VirusTotal and URLScan.io. Social engineering breakdown. Final write-up in the format real SOC tickets take.
+
+ What surprised me most was how legitimate the email looked at first, even though the URL behind it told a completely different story.**
+
+Two weeks ago I would have looked at that email and dragged it into spam. Today I produced a one-page incident report on it. The skills feel real now.
+
+ **75 days left.**
+
+
