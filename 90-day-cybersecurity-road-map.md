@@ -176,3 +176,16 @@ Two weeks ago I would have looked at that email and dragged it into spam. Today 
  **75 days left.**
 
 
+# Day 16 of 90 
+
+ Today I audited my own phone the way a security professional would.
+
+ What surprised me most was how many apps had permissions I didn't really remember giving them.**
+
+ The phone is the master key to most of the rest of your digital life. Email, banking, two-factor codes, password manager, work account. Most of us treat it as casual. Today I looked at mine the way an attacker would.
+
+ Also reported a real phishing URL to a public database used by major browsers. Small action, real defender work.
+
+ 74 days left.
+
+
