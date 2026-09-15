@@ -169,11 +169,11 @@ Today I analysed a real phishing email start to finish — the way a SOC analyst
 
 URL submission to VirusTotal and URLScan.io. Social engineering breakdown. Final write-up in the format real SOC tickets take.
 
- What surprised me most was how legitimate the email looked at first, even though the URL behind it told a completely different story.**
+ What surprised me most was how legitimate the email looked at first, even though the URL behind it told a completely different story.
 
 Two weeks ago I would have looked at that email and dragged it into spam. Today I produced a one-page incident report on it. The skills feel real now.
 
- **75 days left.**
+ 75 days left.
 
 
 # Day 16 of 90 
@@ -224,5 +224,15 @@ I built a pretext against myself today using only public information. It was unc
 
 71 days left
 
+# Day 20 of 90 
 
+Today wasn't about learning a completely new concept. I spent the day digging deeper into some of the things I've already covered and following questions that came up along the way.
+
+What surprised me most was how one simple topic can lead to so many other questions once you start looking into it.
+
+Not every day of learning has to end with a brand new skill. Sometimes it's about going back, connecting the dots, and understanding things a little better than you did before.
+
+20 days in. Still showing up.
+
+70 days left.
 
