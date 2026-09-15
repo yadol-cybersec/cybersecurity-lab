@@ -189,3 +189,16 @@ Two weeks ago I would have looked at that email and dragged it into spam. Today 
  74 days left.
 
 
+# Day 17 of 90 
+
+
+The cloud is just someone else's computer in someone else's data centre. Once you stop thinking of it as magic, the security questions get 
+sharper. Whose computer is it? What lives on it? Who is responsible if something goes wrong?
+
+ The Capital One breach in 2019 exposed about 100 million U.S. customers and 6 million Canadian customers. No zero-day was needed. The attacker exploited a misconfigured web application firewall and gained access to data stored in AWS S3.
+
+73 days left.
+
+
+
+
