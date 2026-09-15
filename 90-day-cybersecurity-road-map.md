@@ -212,4 +212,17 @@ I mapped a recent breach to the kill chain, then ran the same exercise against m
 72 days left.
 
 
+#  Day 19 of 90 
+
+Today I learned the most uncomfortable truth in cybersecurity. The technology mostly works. The humans are the weakest layer. And the humans include me.
+
+What surprised me most was how little information I needed to make a social engineering scenario sound believable.**
+
+ The MGM Resorts breach in 2023 cost the company around $100 million and reportedly started with a social engineering attack on the help desk. The attackers used publicly available information to impersonate an employee and get access.
+
+I built a pretext against myself today using only public information. It was uncomfortably plausible.
+
+71 days left
+
+
 
