@@ -199,6 +199,17 @@ sharper. Whose computer is it? What lives on it? Who is responsible if something
 
 73 days left.
 
+ # Day 18 of 90 
+
+Today I learned how attacks actually work. Not the movie version. The real one.
+
+What surprised me most was how much of an attack can happen before the victim even realizes they're being targeted.
+
+Real attacks follow seven stages: Reconnaissance, Weaponisation, Delivery, Exploitation, Installation, Command and Control, Actions on Objectives. The damage everyone talks about is stage 7. The real work happens in stages 1–6, often weeks earlier.
+
+I mapped a recent breach to the kill chain, then ran the same exercise against myself. Seeing yourself through an attacker's eyes is uncomfortable and useful.
+
+72 days left.
 
 
 
