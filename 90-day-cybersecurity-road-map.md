@@ -138,8 +138,8 @@ Two weeks in. Starting to see how the layers of the web actually fit together.
 78 days left.
 
 
-# **Day 13 of 90 with @MyFirstHack.**
->
+# Day 13 of 90 with 
+
  Today I opened the cookie jar of a site I use every day. I'd clicked through a thousand cookie banners without ever looking at what was on the other side.
 
 What surprised me most was that cookies aren't just about remembering preferences — some can actually keep you logged in by identifying your session.
@@ -148,11 +148,11 @@ What surprised me most was that cookies aren't just about remembering preference
 
  Two weeks in. The web is starting to feel less like magic and more like machinery.
 
- **77 days left.**
+ 77 days left.
 
 
 
-# **Day 14 of 90 
+# Day 14 of 90 
 
  I've had a Wi-Fi router for over a decade. Today was the first time I logged into the admin panel and audited it the way a security analyst would.
 
@@ -235,4 +235,16 @@ Not every day of learning has to end with a brand new skill. Sometimes it's abou
 20 days in. Still showing up.
 
 70 days left.
+
+# Day 21 of 90
+
+Today I learned the simplest possible definition of a network. A network is two computers having a conversation. Every conversation needs four things: a sender, a receiver, a common language, and a route between them. Every network attack in the world targets one of those four parts.
+
+What surprised me most was seeing how many different devices and connections are quietly communicating on my own network without me really noticing.
+
+I counted my own home network and the requests one webpage actually makes. The numbers were higher than I expected on both. The median webpage in 2024 makes 71 separate network requests, often to 15–30 different companies, every time you load it.
+
+Twenty-five days on networks ahead, ending with reading real packet captures the way a SOC analyst does.
+
+69 days left.
 
