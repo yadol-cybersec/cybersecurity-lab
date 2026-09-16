@@ -156,7 +156,7 @@ What surprised me most was that cookies aren't just about remembering preference
 
  I've had a Wi-Fi router for over a decade. Today was the first time I logged into the admin panel and audited it the way a security analyst would.
 
- **What surprised me most was how many security settings were still using defaults that I'd never thought to check.**>
+ What surprised me most was how many security settings were still using defaults that I'd never thought to check.**>
 A home Wi-Fi router is one device doing about five different security-relevant jobs at once. Most of us change the Wi-Fi password and never touch any of the rest. Default admin passwords. Firmware from years ago. Smart bulbs sharing a network with the laptop you do your taxes on.
 
  Two weeks done. Tomorrow's the first real project — analysing an actual phishing email start to finish. Everything from this week converges.
@@ -247,4 +247,16 @@ I counted my own home network and the requests one webpage actually makes. The n
 Twenty-five days on networks ahead, ending with reading real packet captures the way a SOC analyst does.
 
 69 days left.
+
+# Day 22 of 90 
+
+ Today I learned what my IP address actually reveals about me. Every server I connect to can see my public IP address, which can be used to estimate my general location and identify my ISP. It doesn't give them my exact home address.
+
+ What surprised me most was how easily I could identify the devices connected to my own network just by looking at their IP and MAC addresses.
+
+I also learned about NAT, the technique that lets many devices share a smaller number of public IPv4 addresses. IPv4 has about 4.3 billion possible addresses, while the number of connected devices is far higher.
+
+Then I used `arp` to map devices on my home network to their IP addresses. Useful technique for spotting devices that shouldn't be there.
+
+ **68 days left.**
 
